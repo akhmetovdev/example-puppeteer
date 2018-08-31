@@ -1,0 +1,24 @@
+{
+  "name": "example-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhmetovdev/example-puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhmetovdev/example-puppeteer/issues"
+  },
+  "homepage": "https://github.com/akhmetovdev/example-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}
